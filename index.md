@@ -97,7 +97,8 @@ La aplicación está dirigida a personas mayores de 18 años. No recabamos a sab
 Juan Carlos Acal (en adelante, "Cien Por Ciento Jamón" o "nosotros"), con domicilio en
 <span class="domicilio">Mérida, Yucatán (activa JavaScript en tu navegador para ver el domicilio completo)</span>, es responsable del tratamiento de tus datos personales.
 
-Contacto para cualquier asunto de privacidad: **<span class="contacto">chikis_174 (arroba) hotmail (punto) com</span>**.
+Si tienes alguna pregunta sobre este aviso, o dudas, reclamos o solicitudes sobre tu información, escríbenos a
+**<span class="contacto">chikis_174 (arroba) hotmail (punto) com</span>**.
 
 ## 9. Cambios a este aviso
 
@@ -110,7 +111,7 @@ cambio es importante, te avisaremos en la app.
     var host = ['hotmail', 'com'].join('.');
     var address = user + String.fromCharCode(64) + host;
     // Same for the address: built from its parts, so it never appears whole in the page source.
-    var street = ['Calle', 30 + 1, [373, 401].join('-')].join(' ');
+    var street = ['Calle', 30 + 1].join(' ');
     var place = [street, 'Residencial del Norte', 'C.P. ' + (97000 + 219), 'Mérida', 'Yucatán'].join(', ');
     document.querySelectorAll('.domicilio').forEach(function (el) { el.textContent = place; });
     document.querySelectorAll('.contacto').forEach(function (el) {
