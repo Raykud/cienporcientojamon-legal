@@ -27,8 +27,8 @@ confirmaremos la solicitud con un mensaje o llamada a ese número y la eliminare
 tu teléfono para notificaciones y tu cuenta de acceso.
 
 **Se conserva sin datos personales:** tus pedidos, sin tu nombre, teléfono, dirección, referencias, notas ni
-ubicación. Quedan los productos, precios, total, fecha, estado y código postal, que necesitamos para nuestros
-registros de ventas.
+ubicación. Quedan los productos, precios, total, fecha, estado, código postal y los pagos registrados, que necesitamos
+para nuestros registros de ventas.
 
 **Si tu número está bloqueado** (por ejemplo, por un pedido entregado que no se pagó), el bloqueo se mantiene aunque
 elimines tu cuenta. Conservamos su registro completo hasta por 1 año y, después, solo el número, la fecha y el motivo

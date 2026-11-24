@@ -4,7 +4,7 @@ title: Aviso de privacidad
 
 # Aviso de privacidad integral – Cien Por Ciento Jamón
 
-**Última actualización:** noviembre de 2026
+**Última actualización:** 23 de noviembre de 2026
 
 Este aviso explica qué datos personales recabamos a través de la aplicación **Cien Por Ciento Jamón**, para qué
 los usamos, con quién los compartimos, cuánto tiempo los conservamos y cómo puedes ejercer tus derechos, conforme a
@@ -15,15 +15,18 @@ la Ley Federal de Protección de Datos Personales en Posesión de los Particular
 - **Identificación y contacto:** nombre completo y número de celular. El número se verifica con un código por SMS.
 - **Entrega:** dirección (calle, número y colonia), código postal, referencias del domicilio y, si la marcas, la
   ubicación del domicilio en el mapa. Puedes guardar hasta cuatro direcciones.
-- **Pedidos:** productos, cantidades, precios, total, notas que escribas y el estado de cada pedido.
+- **Pedidos:** productos, cantidades, precios, total, notas que escribas, el estado de cada pedido, si es a domicilio
+  o para recoger en tienda (con sus fechas), la forma de pago que elijas (efectivo o transferencia) y los pagos que
+  registramos (monto, forma y fecha).
 - **Dispositivo:** un identificador de tu teléfono para enviarte notificaciones, datos técnicos que la app envía
   para comprobar que es una copia legítima de la aplicación y, si la app falla, un reporte técnico del error
-  (modelo del teléfono, versión de Android y de la app, y dónde ocurrió el fallo), que no te identifica.
+  (modelo del teléfono, versión del sistema (Android o iOS) y de la app, y dónde ocurrió el fallo), que no te identifica.
 
-No recabamos datos personales sensibles ni datos de tarjetas o cuentas bancarias: los pedidos se pagan en persona al
-recibirlos.
+No recabamos datos personales sensibles ni datos de tarjetas o cuentas bancarias. Los pedidos se pagan en efectivo al
+recibirlos o recogerlos, o por transferencia a nuestra cuenta; la app no pide ni guarda tus datos bancarios.
 
-Lo que escribes en el buscador de direcciones se envía a Google para mostrarte sugerencias. La app pide permiso de
+Lo que escribes en el buscador de direcciones se envía a Google (en Android) o a Apple (en iPhone) para mostrarte
+sugerencias. La app pide permiso de
 ubicación solo para el botón "mi ubicación" del mapa; puedes no darlo y escribir tu dirección.
 
 ## 2. Para qué usamos tus datos
@@ -33,11 +36,13 @@ Todas estas finalidades son necesarias para darte el servicio:
 1. Crear tu cuenta y verificar que el número de celular es tuyo.
 2. Saber si entregamos en tu código postal.
 3. Recibir, preparar y entregar tus pedidos, y comunicarnos contigo sobre ellos (llamada o WhatsApp).
-4. Avisarte por notificación cuando tu pedido se confirma, va en camino, se entrega o se cancela.
-5. Llevar el registro de nuestras ventas.
-6. Prevenir fraudes y abusos, y dar seguimiento a pedidos entregados que no se pagaron. Para ello podemos impedir que
+4. Avisarte por notificación cuando tu pedido se confirma, va en camino, está listo para recoger, se entrega o se
+   cancela.
+5. Registrar los pagos de tus pedidos y, si se cancela un pedido que ya pagaste, darle seguimiento a tu reembolso.
+6. Llevar el registro de nuestras ventas.
+7. Prevenir fraudes y abusos, y dar seguimiento a pedidos entregados que no se pagaron. Para ello podemos impedir que
    un número de celular haga nuevos pedidos (ver la sección 5).
-7. Mantener la seguridad de la aplicación y de tu cuenta, y corregir sus fallos.
+8. Mantener la seguridad de la aplicación y de tu cuenta, y corregir sus fallos.
 
 **No usamos tus datos para publicidad ni mercadotecnia, y no los vendemos.**
 
@@ -48,6 +53,7 @@ Todas estas finalidades son necesarias para darte el servicio:
   datos, almacenamiento, funciones en la nube, notificaciones, verificación de la app y reportes de fallos) y Google Maps (mapa y búsqueda
   de direcciones). Google trata los datos por nuestra cuenta y según nuestras instrucciones, en servidores que pueden
   estar fuera de México, como en Estados Unidos.
+- **Apple**, en iPhone: entrega las notificaciones y presta el mapa y la búsqueda de direcciones (Apple Maps).
 
 No transferimos tus datos a otros terceros, salvo que lo exija una autoridad competente conforme a la ley.
 
@@ -58,8 +64,8 @@ No transferimos tus datos a otros terceros, salvo que lo exija una autoridad com
   elimina definitivamente **30 días después**. En ese plazo puedes conservarla volviendo a entrar con tu número.
   Al eliminarla borramos tu perfil, tus direcciones y el identificador de tu teléfono.
 - **Tus pedidos** se conservan sin datos personales: quitamos tu nombre, teléfono, dirección, referencias, notas y
-  ubicación, y dejamos productos, precios, total, fecha, estado y código postal, que necesitamos para nuestros
-  registros de ventas.
+  ubicación, y dejamos productos, precios, total, fecha, estado, código postal y los pagos registrados, que necesitamos
+  para nuestros registros de ventas.
 
 ## 5. Números bloqueados
 
